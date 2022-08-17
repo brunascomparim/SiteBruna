@@ -599,7 +599,7 @@ header
     font-size: 18px;
   }
   .header-area .main-nav{
-    margin-top: -45px;
+    margin-top: 0px;
   }
 }
 
@@ -1550,7 +1550,7 @@ responsive
     margin: 15px 0px 30px 0px;
   }
   .row{
-    margin-top: 50px;
+    margin-top: 0px;
   }
 }
 
